@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mehdi  
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt4eml1Zmd3cm1jejl4YXd0dWs3eHUzM2JzaDh0YXdrejJ4NDdrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="280" alt="coding animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmZzA5a3E5cTlnMm9hczA1NjZpNjh6cGZ6MHFycTZ3ZTVuZnkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation" />
 </p>
 
 ---
@@ -13,12 +13,12 @@
 I’m a **Full-Stack Developer (MERN)** who loves turning complex problems into beautiful, efficient solutions.  
 From crafting silky-smooth interfaces to building scalable backends — I thrive on creativity, clean code, and caffeine ☕.
 
-const mehdi = {
-code: ["JavaScript", "TypeScript", "React", "Node.js", "MongoDB"],
-learning: ["GraphQL", "Next.js", "Docker"],
-passions: ["Problem Solving", "UI Design", "Automation"],
-motto: "Build. Break. Learn. Repeat."
-};
+🧠 **Tech Snapshot:**  
+- 💻 Languages: JavaScript, TypeScript, HTML, CSS  
+- ⚙️ Frameworks: React, Node.js, Express  
+- 🗄️ Databases: MongoDB  
+- 🧩 Learning: GraphQL, Next.js, Docker  
+- 🧠 Motto: *Build. Break. Learn. Repeat.*
 
 ---
 
@@ -82,8 +82,7 @@ motto: "Build. Break. Learn. Repeat."
 ---
 
 <p align="center">
-  
-  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 24 24"><path fill="#000000" d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/><circle cx="16" cy="10" r="0" fill="#000000"><animate attributeName="r" begin=".67" calcMode="spline" dur="1.5s" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" repeatCount="indefinite" values="0;1.75;0;0"/></circle><circle cx="12" cy="10" r="0" fill="#000000"><animate attributeName="r" begin=".33" calcMode="spline" dur="1.5s" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" repeatCount="indefinite" values="0;1.75;0;0"/></circle><circle cx="8" cy="10" r="0" fill="#000000"><animate attributeName="r" begin="0" calcMode="spline" dur="1.5s" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" repeatCount="indefinite" values="0;1.75;0;0"/></circle></svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=7DF9FF&width=435&lines=Turning+Ideas+into+Code+✨;Design.+Build.+Repeat.+💻;Clean+Code.+Big+Dreams.+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">💫 Thanks for stopping by — see you in the commits! 💫</p>
