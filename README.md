@@ -82,7 +82,11 @@ From crafting silky-smooth interfaces to building scalable backends — I thrive
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=7DF9FF&width=435&lines=Turning+Ideas+into+Code+✨;Design.+Build.+Repeat.+💻;Clean+Code.+Big+Dreams.+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=7DF9FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code+✨;Design.+Build.+Repeat.+💻;Clean+code.+Big+dreams.+🚀"
+    alt="Typing animation"
+  />
 </p>
+
 
 <p align="center">💫 Thanks for stopping by — see you in the commits! 💫</p>
