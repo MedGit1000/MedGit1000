@@ -16,7 +16,6 @@ Hi there, I'm Mehdi 👋
 
 👯 I’m looking to collaborate on open-source developer tools. <!-- TODO: Change this to what you want to collaborate on -->
 
-📫 How to reach me: Connect with me on LinkedIn! <!-- TODO: Add your LinkedIn URL -->
 
 ⚡ Fun fact: I can solve a Rubik's cube in under a minute! <!-- TODO: Add a fun fact about you -->
 
