@@ -14,7 +14,6 @@
 I’m a **Full-Stack Developer (MERN)** who blends creativity with logic — crafting elegant UIs and building performant, scalable systems behind them.  
 Driven by curiosity and coffee ☕, I turn abstract concepts into seamless user experiences.
 
-```js
 const mehdi = {
   code: ["JavaScript", "TypeScript", "Node.js", "React", "MongoDB"],
   currentlyLearning: ["GraphQL", "Next.js", "Docker"],
