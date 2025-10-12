@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mehdi  
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmZzA5a3E5cTlnMm9hczA1NjZpNjh6cGZ6MHFycTZ3ZTVuZnkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt4eml1Zmd3cm1jejl4YXd0dWs3eHUzM2JzaDh0YXdrejJ4NDdrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="280" alt="coding animation" />
 </p>
 
 ---
