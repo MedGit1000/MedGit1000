@@ -1,9 +1,4 @@
-Absolutely 😎 — here’s a **ready-to-copy-and-paste**, perfectly formatted version of your **modern, animated, dark-themed GitHub README**.
-All links and image URLs are correct and optimized for GitHub Markdown rendering (no HTML styling issues).
 
----
-
-````markdown
 <h1 align="center">✨ Hi there, I'm <span style="color:#7DF9FF;">Mehdi</span> 👋</h1>
 
 <p align="center">
