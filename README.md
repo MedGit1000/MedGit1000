@@ -53,7 +53,7 @@ From concept to code, I love transforming complex ideas into elegant, efficient 
   <a href="https://github.com/MedGit1000" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="www.linkedin.com/in/rezqi-mehdi" target="_blank">
+  <a href="https://www.linkedin.com/in/rezqi-mehdi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:adamrezqi555@gmail.com">
