@@ -89,13 +89,11 @@ const mehdi = {
 </p>
 
 <p align="center">💫 Thanks for stopping by — see you in the commits! 💫</p>
-```
 
----
 
 ✅ **Copy-paste ready** for your GitHub profile
 🎨 Uses only verified URLs (no broken links)
 🧩 Responsive & fully dark-mode friendly
 💻 Works perfectly on both GitHub desktop & mobile
 
-Would you like me to make a **“cyberpunk glow” version** next (with animated neon borders and gradient text)? It’d look insane on a dark GitHub theme.
+
