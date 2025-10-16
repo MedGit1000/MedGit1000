@@ -35,7 +35,7 @@ const mehdi = {
   philosophy: "Build → Break → Learn → Repeat",
   superpower: "Rubik's Cube in < 60s ⚡"
 };
-
+````
 
 <details>
   <summary><b>What I’m up to</b></summary>
