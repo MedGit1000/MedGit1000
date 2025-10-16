@@ -1,0 +1,23 @@
+name: Update blog posts
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace this with your blog's RSS feed
+          feed_list: "https://dev.to/feed/medgit1000" 
+          max_post_count: 5
+          readme_path: "README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          date_format: "mmm d, yyyy"
