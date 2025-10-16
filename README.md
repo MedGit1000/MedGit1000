@@ -26,6 +26,7 @@
 
 ## 🎯 About Me
 
+```js
 const mehdi = {
   role: "Full-Stack Developer",
   stack: ["MERN", "TypeScript", "GraphQL"],
@@ -51,27 +52,20 @@ const mehdi = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-<!-- Clean, fast-loading icons (single request) -->
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,nodejs,express,graphql,mongodb,git,figma,vscode&perline=8" alt="Tech stack icons" />
-
+  <!-- One fast request for all icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,nodejs,express,graphql,mongodb,git,figma,vscode&perline=8" alt="Tech stack icons" />
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Developer Metrics (auto-updates)
 
 <div align="center">
-
-<!-- Clickable Developer Metrics Board -->
-<div align="center">
+  <!-- Clickable board (light/dark aware) -->
   <a href="https://github.com/users/MedGit1000/contributions" title="Open my interactive contributions calendar" aria-label="Open my interactive contributions calendar">
     <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
-      <img alt="Mehdi's developer metrics"
-           src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
+      <img alt="Mehdi's developer metrics" src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
     </picture>
   </a>
   <br />
@@ -80,46 +74,35 @@ const mehdi = {
   </sub>
 </div>
 
-
-
-
-
-<div align="center">
-  <img alt="GitHub Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=MedGit1000&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-
-<!-- Activity graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MedGit1000&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&custom_title=Contribution%20Graph#gh-dark-mode-only" alt="Contribution graph (dark)" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MedGit1000&hide_border=true&custom_title=Contribution%20Graph#gh-light-mode-only" alt="Contribution graph (light)" />
-
-</div>
-
 ---
 
 ## 🧩 Highlights
 
 * 🎨 Crafting **pixel-perfect UIs** with a strong focus on UX & accessibility
-* 🏗️ Designing **scalable, maintainable architectures** (mono-repos, module boundaries)
-* ⚡ Developer Experience advocate: linting, formatting, testing, fast CI
-* 🧠 Love sharing knowledge via code reviews & docs
+* 🏗️ Designing **scalable, maintainable architectures** (mono-repos, clear module boundaries)
+* ⚡ DX advocate: linting, formatting, tests, fast CI
+* 🧠 Sharing knowledge via code reviews & docs
 
 ---
 
 ## 🏆 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/MedGit1000/Ecommerce-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGit1000&repo=Ecommerce-App&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="Ecommerce App pin" />
-</a>
-<a href="https://github.com/MedGit1000/DevTools-Library">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGit1000&repo=DevTools-Library&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="DevTools Library pin" />
-</a>
-
+  <!-- Pinned cards with alt links (fallback if images rate-limit) -->
+  <a href="https://github.com/MedGit1000/Ecommerce-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGit1000&repo=Ecommerce-App&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="Ecommerce App pin" />
+  </a>
+  <a href="https://github.com/MedGit1000/DevTools-Library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedGit1000&repo=DevTools-Library&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="DevTools Library pin" />
+  </a>
 </div>
+
+<!-- Text blurbs for SEO + fallback -->
+
+<ul>
+  <li><b>Ecommerce-App</b> — Next.js + Node + MongoDB; modular architecture, secure auth, payments-ready.</li>
+  <li><b>DevTools-Library</b> — Reusable utilities for API clients, logging, and testing across projects.</li>
+</ul>
 
 ---
 
@@ -147,12 +130,19 @@ const mehdi = {
 
 ---
 
-## 🐍 Contribution Snake
+<details>
+  <summary><b>Extras (optional)</b> – trophies & snake</summary>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation (dark)" />
-  <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation (light)" />
-</div>
+  <div align="center">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MedGit1000&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  </div>
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation (dark)" />
+    <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation (light)" />
+  </div>
+
+</details>
 
 ---
 
@@ -161,4 +151,3 @@ const mehdi = {
   <br />
   <b>✨ Turning ideas into code · 💻 Design. Build. Repeat. · 🚀 Clean code. Big dreams.</b>
 </div>
-
