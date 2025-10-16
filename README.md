@@ -84,6 +84,10 @@ const mehdi = {
 </div>
 
 
+<div align="center">
+  <img alt="GitHub Trophies"
+       src="https://github-profile-trophy.vercel.app/?username=MedGit1000&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
 
 
 <!-- Activity graph -->
