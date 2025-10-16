@@ -60,7 +60,7 @@
       </a>
     </td>
 
-    <!-- Card 4: Streak + Top Langs -->
+    
     <td width="50%" align="center">
       <img alt="GitHub Streak (dark)" src="https://streak-stats.demolab.com?user=MedGit1000&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=E2E8F0#gh-dark-mode-only" />
       <img alt="GitHub Streak (light)" src="https://streak-stats.demolab.com?user=MedGit1000&hide_border=true&background=FFFFFF&ring=7C3AED&fire=06B6D4&currStreakLabel=0F172A#gh-light-mode-only" />
@@ -131,3 +131,5 @@ const mehdi = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,12,24&height=120&section=footer&text=Let%E2%80%99s%20build%20something%20great&fontSize=28&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 </div>
+```
+
