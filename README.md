@@ -1,49 +1,28 @@
-## 🏆 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Ecommerce-App</h3>
-      <br />
-      <a href="https://github.com/MedGit1000/Ecommerce-App">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Screenshot+Here" alt="Ecommerce App Preview" />
-      </a>
-      <br />
-      <p align="center">
-        <b>Full-stack MERN e-commerce platform with advanced cart features, user auth, and a full admin dashboard.</b>
-        <br /><br />
-        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,tailwind" alt="Tech Stack" />
-        <br /><br />
-        <a href="https://github.com/MedGit1000/Ecommerce-App" title="GitHub Repo">
-          <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-        <a href="#" title="Live Demo (Add your link!)">
-          <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠️ DevTools-Library</h3>
-      <br />
-      <a href="https://github.com/MedGit1000/DevTools-Library">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Screenshot+Here" alt="DevTools Library Preview" />
-      </a>
-      <br />
-      <p align="center">
-        <b>A curated collection of developer tools and resources, focusing on improving DX and productivity.</b>
-        <br /><br />
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,figma" alt="Tech Stack" />
-        <br /><br />
-        <a href="https://github.com/MedGit1000/DevTools-Library" title="GitHub Repo">
-          <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-        <a href="#" title="Live Demo (Add your link!)">
-          <img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=netlify&logoColor=black" alt="Demo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- HERO (neon gradient, dark/light aware) -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:0b1220,100:7c3aed&section=header&animation=fadeIn" />
+  <img alt="Mehdi Rezqi — MERN | TypeScript | GraphQL"
+       src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:f8fbff,100:22d3ee&section=header&animation=fadeIn" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=500&multiline=true&width=760&center=true&vCenter=true&lines=Building+clean%2C+scalable+web+products;DX+%E2%80%A2+Performance+%E2%80%A2+Polish;Ship+fast%2C+look+good+doing+it" alt="typing intro" />
+
+<br/>
+
+<a href="https://github.com/MedGit1000">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/rezqi-mehdi/">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:adamrezqi555@gmail.com">
+  <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+</a>
+
+</div>
 
 ---
 
@@ -160,5 +139,4 @@ const mehdi = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,12,24&height=120&section=footer&text=Let%E2%80%99s%20build%20something%20great&fontSize=28&fontAlignY=70&animation=twinkling" width="100%" alt="Footer wave" />
 </div>
-```
-::contentReference[oaicite:0]{index=0}
+
