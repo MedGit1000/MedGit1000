@@ -73,10 +73,14 @@ const mehdi = {
 
 <br />
 
-<!-- Streak -->
+<!-- GitHub Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://streak-stats.demolab.com/?user=MedGit1000&theme=react&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117&v=1" />
+  <img alt="GitHub streak"
+       src="https://streak-stats.demolab.com/?user=MedGit1000&hide_border=true&v=1" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MedGit1000&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117#gh-dark-mode-only" alt="GitHub streak (dark)" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MedGit1000&hide_border=true#gh-light-mode-only" alt="GitHub streak (light)" />
 
 <!-- Activity graph -->
 
