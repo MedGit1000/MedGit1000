@@ -73,21 +73,15 @@ const mehdi = {
 
 <br />
 
-<!-- Clickable Developer Metrics Board -->
 <div align="center">
-  <a href="https://github.com/users/MedGit1000/contributions" title="Open my interactive contributions calendar" aria-label="Open my interactive contributions calendar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
-      <img alt="Mehdi's developer metrics"
-           src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
-    </picture>
+  <a href="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" title="Open full-size metrics (dark)">
+    <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg#gh-dark-mode-only" alt="Developer metrics (dark)" />
   </a>
-  <br />
-  <sub>
-    <a href="https://github.com/MedGit1000/MedGit1000/actions/workflows/metrics.yml">↻ auto-updated daily</a>
-  </sub>
+  <a href="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" title="Open full-size metrics (light)">
+    <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg#gh-light-mode-only" alt="Developer metrics (light)" />
+  </a>
 </div>
+
 
 
 
