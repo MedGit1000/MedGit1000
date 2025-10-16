@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-```typescript
+```javascript
 const mehdi = {
     role: "Full-Stack Developer",
     stack: ["MERN", "TypeScript", "GraphQL"],
@@ -26,7 +26,7 @@ const mehdi = {
     passion: "Transforming complex problems into elegant solutions",
     currentFocus: "Next-gen e-commerce platforms",
     lifePhilosophy: "Build. Break. Learn. Repeat.",
-    superpower: "Solving Rubik's Cube < 60 seconds ⚡"
+    superpower: "Solving Rubik's Cube in under 60 seconds ⚡"
 };
 ```
 
