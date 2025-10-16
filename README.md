@@ -73,15 +73,22 @@ const mehdi = {
 
 <br />
 
-<!-- Developer Metrics Board (replaces streak card) -->
+<!-- Clickable Developer Metrics Board -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
-    <img alt="Mehdi's developer metrics"
-         src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
-  </picture>
+  <a href="https://github.com/users/MedGit1000/contributions" title="Open my interactive contributions calendar" aria-label="Open my interactive contributions calendar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
+      <img alt="Mehdi's developer metrics"
+           src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
+    </picture>
+  </a>
+  <br />
+  <sub>
+    <a href="https://github.com/MedGit1000/MedGit1000/actions/workflows/metrics.yml">↻ auto-updated daily</a>
+  </sub>
 </div>
+
 
 
 <div align="center">
