@@ -5,7 +5,7 @@
   <img alt="Mehdi Rezqi — MERN | TypeScript | GraphQL" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:f8fbff,100:22d3ee&section=header&animation=twinkling" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=500&multiline=true&width=760&center=true&vCenter=true&lines=Building+clean%2C+scalable+web+products;DX+%E2%80%A2+Performance+%E2%80%A2+Polish;Ship+fast%2C+look+good+doing+it" alt="Intro tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=500&multiline=true&center=true&vCenter=true&lines=Building+clean%2C+scalable+web+products;DX+%E2%80%A2+Performance+%E2%80%A2+Polish;Ship+fast%2C+look+good+doing+it" alt="typing intro" />
 
 <br/>
 
