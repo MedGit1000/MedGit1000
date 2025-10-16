@@ -1,12 +1,67 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus%3A%20Next.js%20Commerce-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Commerce" />
-  <img src="https://img.shields.io/badge/Building%3A%20TypeScript%20APIs-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript APIs" />
-  <br/>
-  <img src="https://img.shields.io/badge/Open%20to%3A%20Freelance-14b8a6?style=for-the-badge" alt="Open to freelance" />
-  <img src="https://img.shields.io/badge/Location%3A%20Morocco%20(Remote)-ef4444?style=for-the-badge" alt="Morocco" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:0b1220,100:7c3aed&section=header&animation=twinkling" />
+  <img alt="Mehdi Rezqi — MERN | TypeScript | GraphQL" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:f8fbff,100:22d3ee&section=header&animation=twinkling" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=500&multiline=true&center=true&vCenter=true&lines=Building+clean%2C+scalable+web+products;DX+%E2%80%A2+Performance+%E2%80%A2+Polish;Ship+fast%2C+look+good+doing+it" alt="typing intro" />
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/MedGit1000"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rezqi-mehdi/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="mailto:adamrezqi555@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MedGit1000&style=for-the-badge&color=7C3AED&label=Profile%20Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,graphql,mongodb,docker,git&perline=11" alt="Tech stack icons" />
+</p>
+
 </div>
 
 ---
+
+<!-- METRICS (responsive stack) -->
+<div align="center">
+  <a href="https://github.com/users/MedGit1000/contributions" title="Interactive contributions calendar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
+      <img alt="Developer metrics" src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
+    </picture>
+  </a>
+  <br/>
+  <sub><a href="https://github.com/MedGit1000/MedGit1000/actions/workflows/metrics.yml">↻ auto-updated daily</a></sub>
+</div>
+
+<br/>
+
+<!-- STACK & NOW (responsive stack) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,graphql,mongodb,redis,docker,git,figma&perline=8" alt="Tech stack" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Next.js%20Commerce-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Commerce" />
+  <img src="https://img.shields.io/badge/TypeScript%20APIs-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript APIs" />
+  <img src="https://img.shields.io/badge/DX%20Tooling-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="DX Tooling" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Open%20to%3A%20Freelance-14b8a6?style=for-the-badge" alt="Open to freelance" />
+  <img src="https://img.shields.io/badge/Remote%20OK-64748b?style=for-the-badge" alt="Remote OK" />
+  <img src="https://img.shields.io/badge/Morocco-ef4444?style=for-the-badge" alt="Morocco" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus%3A%20E%E2%80%91commerce%20%2F%20DX-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Ship%20Fast%20%E2%80%A2%20Test%20Always-7C3AED?style=for-the-badge" alt="DX mantra" />
+</div>
+
 ---
 
 ## 🧠 About / Now
