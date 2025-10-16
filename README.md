@@ -1,18 +1,28 @@
-<!-- HERO -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:0b1220,100:7c3aed&section=header&animation=fadeIn" />
-  <img alt="Mehdi Rezqi — MERN | TypeScript | GraphQL" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:f8fbff,100:22d3ee&section=header&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:0b1220,100:7c3aed&section=header&animation=twinkling" />
+  <img alt="Mehdi Rezqi — MERN | TypeScript | GraphQL" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Rezqi&fontAlign=50&fontSize=54&desc=MERN%20%7C%20TypeScript%20%7C%20GraphQL&descAlignY=70&color=0:f8fbff,100:22d3ee&section=header&animation=twinkling" />
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=500&multiline=true&width=760&center=true&vCenter=true&lines=Building+clean%2C+scalable+web+products;DX+%E2%80%A2+Performance+%E2%80%A2+Polish;Ship+fast%2C+look+good+doing+it" alt="Intro tagline" />
 
 <br/>
 
-<a href="https://github.com/MedGit1000"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/rezqi-mehdi/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:adamrezqi555@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+<p align="center">
+  <a href="https://github.com/MedGit1000"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rezqi-mehdi/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="mailto:adamrezqi555@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MedGit1000&style=for-the-badge&color=7C3AED&label=Profile%20Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,graphql,mongodb,docker,git&perline=11" alt="Tech stack icons" />
+</p>
 
 </div>
 
