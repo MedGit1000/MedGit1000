@@ -1,4 +1,4 @@
-````markdown
+
 <!-- HERO (neon gradient, dark/light aware) -->
 <div align="center">
 
