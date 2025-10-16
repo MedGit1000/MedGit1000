@@ -73,13 +73,16 @@ const mehdi = {
 
 <br />
 
-<!-- GitHub Streak -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://streak-stats.demolab.com/?user=MedGit1000&theme=react&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117&v=1" />
-  <img alt="GitHub streak"
-       src="https://streak-stats.demolab.com/?user=MedGit1000&hide_border=true&v=1" />
-</picture>
+<!-- Developer Metrics Board (replaces streak card) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
+    <img alt="Mehdi's developer metrics"
+         src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
+  </picture>
+</div>
+
 
 
 <!-- Activity graph -->
