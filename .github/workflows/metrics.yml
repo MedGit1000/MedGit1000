@@ -22,6 +22,15 @@ jobs:
           config_timezone: Africa/Casablanca
           config_twemoji: yes
           config_display: large
+          # Enrich with more plugins
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons
+          plugin_stars: yes
+          plugin_stars_limit: 4
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -46,6 +55,15 @@ jobs:
           config_twemoji: yes
           config_display: large
           config_theme: github_dark
+          # Enrich with more plugins
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons
+          plugin_stars: yes
+          plugin_stars_limit: 4
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes

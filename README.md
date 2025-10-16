@@ -18,24 +18,44 @@
 
 ---
 
-<!-- METRICS -->
-<div align="center">
-  <a href="https://github.com/users/MedGit1000/contributions" title="Interactive contributions calendar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
-      <img alt="Developer metrics" src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
-    </picture>
-  </a>
-  <br/>
-  <sub><a href="https://github.com/MedGit1000/MedGit1000/actions/workflows/metrics.yml">↻ auto-updated daily</a></sub>
-</div>
+<!-- BENTO GRID -->
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top" align="center">
+      <a href="https://github.com/users/MedGit1000/contributions" title="Interactive contributions calendar">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-dark.svg" />
+          <img alt="Developer metrics" src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/main/assets/metrics-light.svg" />
+        </picture>
+      </a>
+      <br/>
+      <sub><a href="https://github.com/MedGit1000/MedGit1000/actions/workflows/metrics.yml">↻ auto-updated daily</a></sub>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <div>
+        <strong>⚙️ Tech Stack</strong>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,graphql,mongodb,redis,docker,git,figma&perline=8" alt="Tech stack" />
+      </div>
+      <br/>
+      <div>
+        <strong>🔭 Now</strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Next.js%20Commerce-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TS%20APIs-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/DX%20Tooling-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Open%20to%3A%20Freelance-14b8a6?style=for-the-badge&logo=briefcase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Remote%20OK-64748b?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white" />
+        <img src="https://img.shields.io/badge/Morocco-ef4444?style=for-the-badge&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,graphql,mongodb,redis,docker,git,figma&perline=8" alt="Tech stack" />
-  <br/><br/>
   <img src="https://img.shields.io/badge/Focus%3A%20E%E2%80%91commerce%20%2F%20DX-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Ship%20Fast%20%E2%80%A2%20Test%20Always-7C3AED?style=for-the-badge" alt="DX mantra" />
 </div>
@@ -126,4 +146,3 @@ const mehdi = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,12,24&height=120&section=footer&text=Let%E2%80%99s%20build%20something%20great&fontSize=28&fontAlignY=70&animation=twinkling" width="100%" alt="Footer wave" />
 </div>
-
