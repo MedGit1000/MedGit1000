@@ -52,12 +52,52 @@
 
   <tr>
     <!-- Card 3: Stats -->
-    <td width="50%" align="center">
-      <a href="https://github.com/MedGit1000?tab=repositories&type=source">
-        <img alt="GitHub stats (dark)" src="https://github-readme-stats.vercel.app/api?username=MedGit1000&show_icons=true&rank_icon=percentile&hide_title=true&bg_color=0d1117&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE&border_color=262B40#gh-dark-mode-only" />
-        <img alt="GitHub stats (light)" src="https://github-readme-stats.vercel.app/api?username=MedGit1000&show_icons=true&rank_icon=percentile&hide_title=true&bg_color=ffffff&title_color=7C3AED&text_color=0F172A&icon_color=06B6D4&border_color=E5E7EB#gh-light-mode-only" />
+    ## 🏆 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Ecommerce-App</h3>
+      <br />
+      <a href="https://github.com/MedGit1000/Ecommerce-App">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+Screenshot+Here" alt="Ecommerce App Preview" />
       </a>
+      <br />
+      <p align="center">
+        <b>Full-stack MERN e-commerce platform with advanced cart features, user auth, and a full admin dashboard.</b>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,tailwind" alt="Tech Stack" />
+        <br /><br />
+        <a href="https://github.com/MedGit1000/Ecommerce-App" title="GitHub Repo">
+          <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+        <a href="#" title="Live Demo (Add your link!)">
+          <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
+        </a>
+      </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ DevTools-Library</h3>
+      <br />
+      <a href="https://github.com/MedGit1000/DevTools-Library">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+Screenshot+Here" alt="DevTools Library Preview" />
+      </a>
+      <br />
+      <p align="center">
+        <b>A curated collection of developer tools and resources, focusing on improving DX and productivity.</b>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,figma" alt="Tech Stack" />
+        <br /><br />
+        <a href="https://github.com/MedGit1000/DevTools-Library" title="GitHub Repo">
+          <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+        <a href="#" title="Live Demo (Add your link!)">
+          <img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=netlify&logoColor=black" alt="Demo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
     <!-- Card 4: Streak + Top Langs -->
     <td width="50%" align="center">
