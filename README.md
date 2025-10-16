@@ -64,15 +64,12 @@ const mehdi = {
 
 <div align="center">
 
-<!-- Stats: dark mode -->
+<!-- Dark / Light mode versions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation (dark)" />
+  <img src="https://raw.githubusercontent.com/MedGit1000/MedGit1000/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation (light)" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MedGit1000&show_icons=true&hide_border=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=7200#gh-dark-mode-only" alt="GitHub stats (dark)" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedGit1000&layout=compact&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8&cache_seconds=7200#gh-dark-mode-only" alt="Top languages (dark)" height="165" />
-
-<!-- Stats: light mode -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=MedGit1000&show_icons=true&hide_border=true&count_private=true&cache_seconds=7200#gh-light-mode-only" alt="GitHub stats (light)" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedGit1000&layout=compact&hide_border=true&langs_count=8&cache_seconds=7200#gh-light-mode-only" alt="Top languages (light)" height="165" />
 
 <br />
 
