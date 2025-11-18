@@ -2,13 +2,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Mehdi%20Rezqi&fontAlign=50&fontSize=65&desc=Full-Stack%20Engineer%20%7C%20TypeScript%20Specialist%20%7C%20E-commerce%20Architect&descAlignY=75&descSize=20&color=0:0D1117,30:1a1a2e,70:16213e,100:533483&section=header&animation=twinkling&fontColor=ffffff" />
-  <img alt="Mehdi Rezqi Header" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Mehdi%20Rezqi&fontAlign=50&fontSize=65&desc=Full-Stack%20Engineer%20%7C%20TypeScript%20Specialist%20%7C%20E-commerce%20Architect&descAlignY=75&descSize=20&color=0:e0f2fe,30:ddd6fe,70:c7d2fe,100:a78bfa&section=header&animation=twinkling" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&text=MEHDI%20REZQI&fontAlign=50&fontAlignY=35&fontSize=70&desc=Full-Stack%20Engineer%20%E2%80%A2%20TypeScript%20Architect%20%E2%80%A2%20E-commerce%20Specialist&descAlign=50&descAlignY=55&descSize=18&color=gradient&customColorList=6,11,20,24,30&fontColor=ffffff&animation=twinkling" />
+  <img alt="Mehdi Rezqi Header" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=MEHDI%20REZQI&fontAlign=50&fontAlignY=35&fontSize=70&desc=Full-Stack%20Engineer%20%E2%80%A2%20TypeScript%20Architect%20%E2%80%A2%20E-commerce%20Specialist&descAlign=50&descAlignY=55&descSize=18&color=gradient&customColorList=0,2,12,18,24" />
 </picture>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Crafting+high-performance+web+applications;%F0%9F%9A%80+Building+scalable+e-commerce+platforms;%F0%9F%92%8E+Obsessed+with+clean+code+%26+developer+experience" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Crafting+scalable+web+solutions+with+modern+stacks;Building+lightning-fast+e-commerce+platforms;Obsessed+with+developer+experience+%26+clean+architecture" alt="Typing SVG" />
 
 <br/>
 
