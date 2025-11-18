@@ -21,14 +21,14 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,nodejs,express,graphql,mongodb,redis,docker,git,figma&perline=13&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,graphql,mongodb,redis,docker,git,figma&perline=13&theme=dark" alt="Tech Stack" />
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/🚀_Open_to_Freelance-10b981?style=for-the-badge&logoColor=white" alt="Open to Freelance" />
-<img src="https://img.shields.io/badge/🌍_Remote_Friendly-3b82f6?style=for-the-badge&logoColor=white" alt="Remote" />
-<img src="https://img.shields.io/badge/📍_Based_in_Morocco-ef4444?style=for-the-badge&logoColor=white" alt="Morocco" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20to%20Freelance-10b981?style=for-the-badge" alt="Open to Freelance" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Remote%20Friendly-3b82f6?style=for-the-badge" alt="Remote" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Based%20in%20Morocco-ef4444?style=for-the-badge" alt="Morocco" />
 
 <br/>
 
